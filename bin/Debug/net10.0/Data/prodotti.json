@@ -1,0 +1,383 @@
+[
+  {
+    "id": 1,
+    "sku": "UOM-00001",
+    "nome": "Abito monopetto in lana fresca",
+    "descrizione": "Abito sartoriale a due bottoni in lana fresca leggera, ideale per la stagione calda.",
+    "genere": "Uomo",
+    "reparto": "Abbigliamento",
+    "categoria": "abiti",
+    "collezione": "Lana Fresca",
+    "materiale": "100% lana",
+    "prezzo": 2190,
+    "colori": [
+      "grigio antracite",
+      "blu notte"
+    ],
+    "taglie": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 2,
+    "sku": "UOM-00002",
+    "nome": "Blazer destrutturato in lino",
+    "descrizione": "Giacca morbida e senza fodera, in lino naturale con tasche applicate.",
+    "genere": "Uomo",
+    "reparto": "Abbigliamento",
+    "categoria": "giacche-e-blazer",
+    "collezione": "Lino",
+    "materiale": "100% lino",
+    "prezzo": 1850,
+    "colori": [
+      "sabbia",
+      "blu"
+    ],
+    "taglie": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56"
+    ],
+    "nuovoArrivo": true
+  },
+  {
+    "id": 3,
+    "sku": "UOM-00003",
+    "nome": "Cappotto doppiopetto in cashmere",
+    "descrizione": "Cappotto lungo doppiopetto, tessuto in puro cashmere dalla mano morbidissima.",
+    "genere": "Uomo",
+    "reparto": "Abbigliamento",
+    "categoria": "cappotti-e-capispalla",
+    "collezione": "Cashmere",
+    "materiale": "100% cashmere",
+    "prezzo": 4900,
+    "colori": [
+      "cammello",
+      "grigio"
+    ],
+    "taglie": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 4,
+    "sku": "UOM-00004",
+    "nome": "Camicia in cotone popeline",
+    "descrizione": "Camicia classica con collo italiano e polsini doppi, in popeline di cotone egiziano.",
+    "genere": "Uomo",
+    "reparto": "Abbigliamento",
+    "categoria": "camicie",
+    "collezione": "Essenziali",
+    "materiale": "100% cotone",
+    "prezzo": 395,
+    "colori": [
+      "bianco",
+      "azzurro"
+    ],
+    "taglie": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 5,
+    "sku": "UOM-00005",
+    "nome": "Dolcevita in cashmere e seta",
+    "descrizione": "Maglia a collo alto leggera, in filato misto cashmere e seta.",
+    "genere": "Uomo",
+    "reparto": "Abbigliamento",
+    "categoria": "maglieria",
+    "collezione": "Cashmere",
+    "materiale": "70% cashmere, 30% seta",
+    "prezzo": 1250,
+    "colori": [
+      "blu notte",
+      "grigio perla"
+    ],
+    "taglie": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 6,
+    "sku": "UOM-00006",
+    "nome": "Pantaloni in flanella di lana",
+    "descrizione": "Pantaloni dritti con doppia pince, in flanella di lana pettinata.",
+    "genere": "Uomo",
+    "reparto": "Abbigliamento",
+    "categoria": "pantaloni",
+    "collezione": "Lana Fresca",
+    "materiale": "100% lana",
+    "prezzo": 690,
+    "colori": [
+      "grigio medio",
+      "antracite"
+    ],
+    "taglie": [
+      "46",
+      "48",
+      "50",
+      "52",
+      "54",
+      "56"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 7,
+    "sku": "UOM-00007",
+    "nome": "Mocassino in suede",
+    "descrizione": "Mocassino foderato in pelle, in suede di vitello con suola in gomma leggera.",
+    "genere": "Uomo",
+    "reparto": "Calzature",
+    "categoria": "mocassini",
+    "collezione": "Pelle e Suede",
+    "materiale": "Suede di vitello",
+    "prezzo": 780,
+    "colori": [
+      "tortora",
+      "marrone"
+    ],
+    "taglie": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ],
+    "nuovoArrivo": true
+  },
+  {
+    "id": 8,
+    "sku": "UOM-00008",
+    "nome": "Cravatta in seta jacquard",
+    "descrizione": "Cravatta sette pieghe con micro disegno jacquard, tessuta in Italia.",
+    "genere": "Uomo",
+    "reparto": "Accessori",
+    "categoria": "cravatte-e-pochette",
+    "collezione": "Seta",
+    "materiale": "100% seta",
+    "prezzo": 220,
+    "colori": [
+      "blu",
+      "bordeaux"
+    ],
+    "taglie": [
+      "Unica"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 9,
+    "sku": "DON-00009",
+    "nome": "Abito midi in seta",
+    "descrizione": "Abito fluido a mezza gamba con scollo a V, in seta pura.",
+    "genere": "Donna",
+    "reparto": "Abbigliamento",
+    "categoria": "abiti",
+    "collezione": "Seta",
+    "materiale": "100% seta",
+    "prezzo": 2450,
+    "colori": [
+      "avorio",
+      "verde salvia"
+    ],
+    "taglie": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "nuovoArrivo": true
+  },
+  {
+    "id": 10,
+    "sku": "DON-00010",
+    "nome": "Cappotto in cashmere con cintura",
+    "descrizione": "Cappotto avvolgente con cintura in vita, in cashmere double-face.",
+    "genere": "Donna",
+    "reparto": "Abbigliamento",
+    "categoria": "cappotti-e-capispalla",
+    "collezione": "Cashmere",
+    "materiale": "100% cashmere",
+    "prezzo": 5200,
+    "colori": [
+      "cammello",
+      "grigio chiaro"
+    ],
+    "taglie": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 11,
+    "sku": "DON-00011",
+    "nome": "Blusa in seta lavata",
+    "descrizione": "Blusa morbida con maniche ampie, in seta lavata dalla mano setosa.",
+    "genere": "Donna",
+    "reparto": "Abbigliamento",
+    "categoria": "camicie-e-bluse",
+    "collezione": "Seta",
+    "materiale": "100% seta",
+    "prezzo": 890,
+    "colori": [
+      "bianco",
+      "cipria"
+    ],
+    "taglie": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 12,
+    "sku": "DON-00012",
+    "nome": "Cardigan in baby cashmere",
+    "descrizione": "Cardigan a trecce con bottoni in madreperla, in baby cashmere.",
+    "genere": "Donna",
+    "reparto": "Abbigliamento",
+    "categoria": "maglieria",
+    "collezione": "Cashmere",
+    "materiale": "100% baby cashmere",
+    "prezzo": 1450,
+    "colori": [
+      "beige",
+      "rosa antico"
+    ],
+    "taglie": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 13,
+    "sku": "DON-00013",
+    "nome": "Pantaloni palazzo in lino",
+    "descrizione": "Pantaloni a gamba larga e vita alta, in lino leggero.",
+    "genere": "Donna",
+    "reparto": "Abbigliamento",
+    "categoria": "pantaloni",
+    "collezione": "Lino",
+    "materiale": "100% lino",
+    "prezzo": 720,
+    "colori": [
+      "sabbia",
+      "bianco"
+    ],
+    "taglie": [
+      "38",
+      "40",
+      "42",
+      "44",
+      "46"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 14,
+    "sku": "DON-00014",
+    "nome": "Ballerina in nappa",
+    "descrizione": "Ballerina in pelle nappa morbida con suola in cuoio.",
+    "genere": "Donna",
+    "reparto": "Calzature",
+    "categoria": "mocassini-e-ballerine",
+    "collezione": "Pelle e Suede",
+    "materiale": "Pelle nappa",
+    "prezzo": 590,
+    "colori": [
+      "nero",
+      "cipria"
+    ],
+    "taglie": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "nuovoArrivo": false
+  },
+  {
+    "id": 15,
+    "sku": "DON-00015",
+    "nome": "Borsa a mano in pelle",
+    "descrizione": "Borsa strutturata con manico rigido, in pelle di vitello a grana fine.",
+    "genere": "Donna",
+    "reparto": "Accessori",
+    "categoria": "borse",
+    "collezione": "Pelle e Suede",
+    "materiale": "Pelle di vitello",
+    "prezzo": 2900,
+    "colori": [
+      "cognac",
+      "nero"
+    ],
+    "taglie": [
+      "Unica"
+    ],
+    "nuovoArrivo": true
+  },
+  {
+    "id": 16,
+    "sku": "DON-00016",
+    "nome": "Sciarpa in cashmere e seta",
+    "descrizione": "Sciarpa ampia e leggera, in filato misto cashmere e seta con frange.",
+    "genere": "Donna",
+    "reparto": "Accessori",
+    "categoria": "sciarpe-e-foulard",
+    "collezione": "Cashmere",
+    "materiale": "70% cashmere, 30% seta",
+    "prezzo": 450,
+    "colori": [
+      "grigio",
+      "blu"
+    ],
+    "taglie": [
+      "Unica"
+    ],
+    "nuovoArrivo": false
+  }
+]

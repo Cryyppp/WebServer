@@ -31,3 +31,39 @@
 /Users/tommy/Documents/WebApi Server/WebServer/obj/Debug/net10.0/WebServer.pdb
 /Users/tommy/Documents/WebApi Server/WebServer/obj/Debug/net10.0/WebServer.genruntimeconfig.cache
 /Users/tommy/Documents/WebApi Server/WebServer/obj/Debug/net10.0/ref/WebServer.dll
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/appsettings.Development.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/appsettings.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/WebServer.staticwebassets.endpoints.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/WebServer.exe
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/WebServer.deps.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/WebServer.runtimeconfig.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/WebServer.dll
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/WebServer.pdb
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/Microsoft.OpenApi.dll
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.csproj.AssemblyReference.cache
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/rpswa.dswa.cache.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.AssemblyInfoInputs.cache
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.AssemblyInfo.cs
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.csproj.CoreCompileInputs.cache
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/rjimswa.dswa.cache.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/scopedcss/bundle/WebServer.styles.css
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/staticwebassets.build.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/staticwebassets.build.json.cache
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/staticwebassets.development.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/swae.build.ex.cache
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.csproj.Up2Date
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.dll
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/refint/WebServer.dll
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.pdb
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/WebServer.genruntimeconfig.cache
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/obj/Debug/net10.0/ref/WebServer.dll
+C:/Users/luca.marinone/Downloads/WebServer-main/WebServer-main/bin/Debug/net10.0/Data/prodotti.json
+/Users/tommy/Documents/WebApi Server/WebServer/bin/Debug/net10.0/Data/prodotti.json
+/Users/tommy/Documents/WebApi Server/WebServer/obj/Debug/net10.0/WebServer.sourcelink.json
