@@ -379,5 +379,26 @@
       "Unica"
     ],
     "nuovoArrivo": false
+  },
+  {
+    "id": 17,
+    "sku": "UOM-00017",
+    "nome": "Giacca in lana",
+    "descrizione": "Giacca leggera in lana",
+    "genere": "Uomo",
+    "reparto": "Abbigliamento",
+    "categoria": "giacche-e-blazer",
+    "collezione": "Lana",
+    "materiale": "100% lana",
+    "prezzo": 990,
+    "colori": [
+      "blu"
+    ],
+    "taglie": [
+      "48",
+      "50",
+      "52"
+    ],
+    "nuovoArrivo": true
   }
 ]
